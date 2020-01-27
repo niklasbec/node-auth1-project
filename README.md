@@ -4,7 +4,7 @@
 
 - Authentication.
 - Express Middleware.
-- Password Hashing.
+- Passwordd Hashing.
 - Sessions
 - Cookies
 
